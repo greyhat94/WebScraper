@@ -1,5 +1,3 @@
-Certainly! Here's a basic template for a README file in Markdown format. You can customize it based on the specific details of your project:
-
 ```markdown
 # WebScraper
 
